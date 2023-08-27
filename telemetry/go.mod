@@ -1,4 +1,4 @@
-module telemetry
+module github.com/krzko/pkg/telemetry
 
 go 1.20
 
